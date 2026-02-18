@@ -1,5 +1,5 @@
 ## Hi there 👋
-## 💻 Hello, My Tech Stack
+## 💻 My Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -70,4 +70,4 @@
 
 ## 🚀 My current project
 
-https://recipes-foryou.ru
+[![Visit the website](https://img.shields.io/badge/🍳-recipes--foryou.ru-2A6F97?style=for-the-badge&logo=googlechrome&logoColor=white)](https://recipes-foryou.ru)
