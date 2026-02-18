@@ -77,4 +77,4 @@
 
 ## 🚀 My current project
 
-[![Readme Card](https://recipes-foryou.ru/)
+https://recipes-foryou.ru
