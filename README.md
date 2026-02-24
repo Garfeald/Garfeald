@@ -64,14 +64,6 @@
 
 ---
 
-## 📊 My statistics on GitHub
-
-![](https://github-readme-stats.vercel.app/api?username=Garfeald&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Garfeald&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Garfeald&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 ## 🚀 My current project
 
 [![Visit the website](https://img.shields.io/badge/🍳-recipes--foryou.ru-2A6F97?style=for-the-badge&logo=googlechrome&logoColor=white)](https://recipes-foryou.ru)
